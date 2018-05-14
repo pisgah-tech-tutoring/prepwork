@@ -29,4 +29,7 @@ So give these a go, take notes on what you find interesting or confusing and rea
 - [CodeAcademy - Intro to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 - [CodeAcademy - Intro to jQuery](https://www.codecademy.com/learn/learn-jquery)
 
+### Try Tying it all Together
+- [Dash GeneralAssemb.ly](https://dash.generalassemb.ly/)
+
 If you finish these or are looking for further explanation, check out this [list of resources](https://github.com/pisgah-tech-tutoring/resources).
