@@ -2,9 +2,20 @@
 
 This is a short list of recommended videos, articles, and courses you should complete before the course.  Why?  Because it gives you the best chance for success.  You WILL still have questions after studying these materials, that's okay!  Questions about a topic are better than no awareness of the topic at all.
 
-So give these a go, take notes on what you find interesting or confusing and reach out along the way!
+You will also need to set up accounts/programs for a couple websites (they're all free) that we will use along the way.  If you run in to any problems with these, no worries, just let us know. Please have your accounts set up for these before the first class!
 
-## Here we go
+## Accounts / Programs
+- [Nodejs](https://nodejs.org/en/download/)
+- [iTerm (for Mac users)](https://www.iterm2.com/)
+- [Git Bash (for Windows users)](https://git-scm.com/download/win)
+- [VSCode](https://code.visualstudio.com/Download)
+- [GitHub](https://github.com/join)
+- [CodePen](https://codepen.io/accounts/signup)
+- [Slack (account and program)](https://slack.com/downloads/)
+
+## Learning
+
+Take notes on what you find interesting or confusing and reach out along the way!
 
 ### Internet
 - [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M)
