@@ -5,15 +5,17 @@ This is a short list of recommended videos, articles, and courses you should com
 You will also need to set up accounts/programs for a couple websites (they're all free) that we will use along the way.  If you run in to any problems with these, no worries, just let us know. Please have your accounts set up for these before the first class!
 
 ## Accounts / Programs
-- [Nodejs](https://nodejs.org/en/download/)
-- [iTerm (for Mac users)](https://www.iterm2.com/)
-- [Git Bash (for Windows users)](https://git-scm.com/download/win)
-- [VSCode](https://code.visualstudio.com/Download)
-- [GitHub](https://github.com/join)
-- [CodePen](https://codepen.io/accounts/signup)
-- [Slack (account and program)](https://slack.com/downloads/)
+#### Download or sign up for the following list of items.
+- [Nodejs](https://nodejs.org/en/download/) Download and install.
+- [iTerm (for Mac users)](https://www.iterm2.com/) Download and install.
+- [Git Bash (for Windows users)](https://git-scm.com/download/win) Download and install.
+- [VSCode](https://code.visualstudio.com/Download) Download and install.
+- [GitHub](https://github.com/join) Sign up.
+- [CodePen](https://codepen.io/accounts/signup) Sign up.
+- [Slack (account and program)](https://slack.com/downloads/) Download and install.
 
 ## Learning
+#### Once you're all signed up and have things installed, start working your way through this list of prepwork as much as you can.
 
 Take notes on what you find interesting or confusing and reach out along the way!
 
